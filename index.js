@@ -1,5 +1,4 @@
 console.clear();
-require("./music");
 const TelegramBot = require('ell-tg-bot-api');
 const bot = new TelegramBot("8450485773:AAGpmoBJvby3AID_YOzqhkDCdbfz6jZg5Kc", { polling: true });
 const express = require('express');
