@@ -83,7 +83,7 @@ const {
   jidEncode,
   jidDecode,
   baileysLib
-} = require("ell-bail")
+} = require("@whiskeysockets/baileys")
 const pino = require('pino');
 const { Boom } = require('@hapi/boom');
 const chalk = require('chalk');
